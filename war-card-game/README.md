@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# no-ai-projects
-
-A collection of programming projects built independently to strengthen my problem solving, program design, and debugging skills.
-I completed each project without AI assistance during implementation. After completion, I may use external tools for review, documentation feedback, or identifying improvements.
-=======
 # War Card Game
 
 A command-line version of the card game War built with Python.
@@ -19,4 +13,3 @@ A command-line version of the card game War built with Python.
 
 ```bash
 python main.py
->>>>>>> e2d3826 (Add War card game project)
