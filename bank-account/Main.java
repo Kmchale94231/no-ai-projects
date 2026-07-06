@@ -127,22 +127,3 @@ public class Main {
         scanner.close();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-/* 
-                System.out.println("       Account Details");
-                System.out.println("===============================");
-                System.out.println("Username:           " + userName);
-                System.out.println("Account-Holder:     " + accountName);
-                System.out.println("Account Type:       " + accountType);
-                System.out.println("Balance:            " + balance);
-*/
